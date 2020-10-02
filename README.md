@@ -21,7 +21,7 @@ Para comenzar la instalacion porfavor copie el siguiente comando en su linea de 
 git clone https://github.com/fernando-b15/Arem-Taller6
 ~~~
 
-![image1](https://github.com/fernando-b15/Arem-Taller5/blob/master/img/clone.PNG)
+![image1](https://github.com/fernando-b15/Arem-Taller6/blob/master/img/clone.PNG)
 
 Posteriormente desde linea comandos ingrese al directorio de la aplicacion con el siguinete comando :
 
@@ -104,6 +104,23 @@ Como el ServerFachada usa un UrlReader que lee los certificados de ClaculadoraTr
 
 ![image10](https://github.com/fernando-b15/Arem-Taller6/blob/master/img/test4.PNG) 
 
+# Documentacion
+
+Para obtener la documentacion del servicios del ServerFachada y la CalculadoraTrigonometrica, ingrese el siguinete codigo en el respectivo directorio que contiene el ServerFachada  y tambien en el que contiene la CalculadoraTrigonometrica
+
+~~~
+mvn javadoc:javadoc
+~~~
+
+![image11](https://github.com/fernando-b15/Arem-Taller6/blob/master/img/javadoc1.PNG)
+
+
+para acceder a la documentacion del ServerFachada ingrese al siguiente enlace [apidocs](https://github.com/fernando-b15/Arem-Taller6/tree/master/SeverFachada/apidocs) 
+
+![image12](https://github.com/fernando-b15/Arem-Taller6/blob/master/img/javadoc2.PNG)
+
+para acceder a la documentacion de la CalculadoraTrigonometrica ingrese al siguiente enlace [apidocs](https://github.com/fernando-b15/Arem-Taller6/tree/master/CalculadoraTrigonometrica/apidocs) 
+
 # Video de pruebas en EC2 AWS
    * [![video1](https://yt-embed.herokuapp.com/embed?v=8Xg4aOs5HoM)](https://www.youtube.com/watch?v=8Xg4aOs5HoM)
    
@@ -113,4 +130,4 @@ La aplicacion cuenta con la siguiente [MIT LICENCE](https://github.com/fernando-
 
 # Autor
 
-   * [Fernanado Barrera Barrera](https://github.com/fernando-b15) :guitar:   
+   * [Fernando Barrera Barrera](https://github.com/fernando-b15) :guitar:   
