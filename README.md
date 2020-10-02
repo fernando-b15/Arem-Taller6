@@ -19,7 +19,7 @@ Para el uso de la aplicacion se requiere que el computador tenga instalados los 
    
 # Licencia
 
-La aplicacion cuenta con la siguiente [MIT LICENCE](https://github.com/fernando-b15/Arem-Taller5/blob/master/LICENSE) 
+La aplicacion cuenta con la siguiente [MIT LICENCE](https://github.com/fernando-b15/Arem-Taller6/blob/master/LICENSE) 
 
 # Autor
 
