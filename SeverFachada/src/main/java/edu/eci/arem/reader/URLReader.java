@@ -16,7 +16,7 @@ import javax.net.ssl.TrustManager;
 import javax.net.ssl.TrustManagerFactory;
 
 public class URLReader {
-
+	
     public static String Reader(String funcion,String parametro) throws KeyStoreException, NoSuchAlgorithmException, CertificateException, FileNotFoundException, IOException, KeyManagementException {
     	// Create a file and a password representation
     	 File trustStoreFile = new File("CalculadoraTrigonometrica/keystores/myTrustStore");
