@@ -137,7 +137,7 @@ para acceder a la documentacion de la CalculadoraTrigonometrica ingrese al sigui
 
 # Informe del taller(Despliegue en EC2 AWS)
 
-Para conocer mas a fondo el desarrollo del taller acceda al [Informe](https://github.com/fernando-b15/Arem-Taller5/blob/master/Arem_Taller5.pdf)   
+Para conocer mas a fondo el desarrollo del taller acceda al [Informe](https://github.com/fernando-b15/Arem-Taller6/blob/master/Arem_Taller6.pdf)   
 
 # Licencia
 
