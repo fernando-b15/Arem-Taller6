@@ -1,0 +1,20 @@
+version: '2'
+
+ 
+
+services:
+    fachada:
+        build:
+            context: .
+            dockerfile: SeverFachada/Dockerfile
+        ports:
+            - "9001:6000"
+    calculadora:
+        build:
+            context: ./CalculadoraTrigonometrica
+            dockerfile: Dockerfile
+        ports:
+            - "9002:6000"
+         
+        
+    
