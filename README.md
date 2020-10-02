@@ -21,7 +21,7 @@ La imagen del server fachada se encuentra en el siguiente link es:
 La imagen de la calculadora trigonometrica se encuentra en el siguiente link es:
    * [ImageCalculadoraTrigonometrica](https://hub.docker.com/repository/docker/fernando15/calculadoratrigonometrica)
 
-# Video
+# Video de pruebas
    * [![video1](https://yt-embed.herokuapp.com/embed?v=8Xg4aOs5HoM)](https://www.youtube.com/watch?v=8Xg4aOs5HoM)
    
 # Licencia
