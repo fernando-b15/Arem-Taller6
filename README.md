@@ -60,6 +60,12 @@ mvn package
 
 ![image3](https://github.com/fernando-b15/Arem-Taller6/blob/master/img/packagecalculadora.PNG)
 
+# Credenciales
+   * user1 : fernando
+   * password1 : holi123
+   * user2 : admin
+   * passwor2 : admin
+
 # Ejecucion
 
 Para la ejecucion de toda la arquitectura de servcios dockers se hace desde el directorio principal de la aplicacion, construimos la arquitectura de servicios que incluye los 2 dockers haciendo uso del docker-compose.yml con el siguiente comando:
